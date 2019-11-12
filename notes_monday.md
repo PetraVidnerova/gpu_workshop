@@ -43,8 +43,7 @@ test must be independent
 
 preprocessing with opencv and keras
 
-### :) 
-NEVER COMPILE FRAMEWORK YOURSELF - you have to validate!!!
+### :) NEVER COMPILE FRAMEWORK YOURSELF - you have to validate!!!
 
 ### Choice of framework 
 
